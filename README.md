@@ -1,5 +1,7 @@
 # front-vue-cruddos
 
+Esto tiene un deployment en Heroku
+
 ## Project setup
 ```
 npm install
